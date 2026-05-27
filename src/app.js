@@ -37,6 +37,11 @@ const myLocations = [
     name: 'Berlin Wall',
     location: [52.507541, 13.39032],
     description: 'The most famous wall in Berlin'
+  }, 
+  {
+    name: 'Grunewald',
+    location: [52.447502, 13.205682],
+    description: 'The best picnic spot'
   }
 ];
 
